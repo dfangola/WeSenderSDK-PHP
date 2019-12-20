@@ -1,8 +1,9 @@
 {
     "name": "digitalfactory/wesendersdk",
     "description": "SDK em PHP para facilitar a integração da API em seus projectos",
-    "type": "wesendersdk",
+    "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Acidiney Dias",
