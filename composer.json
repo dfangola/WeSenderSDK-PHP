@@ -1,0 +1,21 @@
+{
+    "name": "digitalfactory/wesendersdk",
+    "description": "SDK em PHP para facilitar a integração da API em seus projectos",
+    "type": "wesendersdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Acidiney Dias",
+            "email": "acidiney.dias@digitalfactory.co.ao"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "WeSender\\": "src/"
+        }
+    }
+}
