@@ -23,8 +23,6 @@ Resposta do método é a mesma que a da API:
 
 ## Exemplo
 
-- Usando arquivo
-
 ```php
 
 require 'vendor/autoload.php';
