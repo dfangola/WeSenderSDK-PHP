@@ -7,7 +7,7 @@
 
 ## Métodos diponiveis no momento
 ### - sendMessage
-Esse metodo recebe um `3 parametros` com as informações que devem ser enviadas e para quem deve ser enviado, sendo que o ultimo é opcional.
+Esse metodo recebe um `3 parametros` com as informações que devem ser enviadas e para quem deve ser enviado, sendo que o `hasSpecialCharacter` é opcional e por padrão é `false`.
  ```php
   sendMessage(Array destines, String Message, Bool hasSpecialCharacter = false)
   ```
