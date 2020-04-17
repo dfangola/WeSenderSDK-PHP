@@ -51,7 +51,7 @@ class WeSenderSDK {
     if ($responseDecode['Exito']) {
       $res = [
         "Success" => true,
-        "Message" => $responseDecode['Mensagem']
+        "Message" => $responseDecode['Message']
       ];
     }
 
