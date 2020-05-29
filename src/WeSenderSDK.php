@@ -21,7 +21,7 @@ class WeSenderSDK {
       "ApiKey" => $this->_apiKey,
       "Mensagem" => $message,
       "Destino" => $destine,
-      "CEspecial" => $hasSpecialCharacter
+      "CEspeciais" => $hasSpecialCharacter
     ];
 
     $header = [
